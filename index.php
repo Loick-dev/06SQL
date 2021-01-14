@@ -12,6 +12,20 @@
 ?>
 </head>
 <body>
-    
+    <header>
+    <?php
+    require('./templates/header.html');
+?>
+    </header>
+    <main>
+    <?php
+    if
+    ?></main>
+    <footer>
+    <?php
+    require('./templates/footer.html');
+?>
+    </footer>
+
 </body>
 </html>
