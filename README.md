@@ -1,3 +1,5 @@
+# 06-SQL
+
 ## INITIALISATION
 
 Pour initialiser Git (dossier local) :
